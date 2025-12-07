@@ -61,7 +61,6 @@ USER DATABASE MENU
 5 - Modify user  
 9 - Shutdown server  
 0 - Exit
---------------------------------
 
 ---
 
