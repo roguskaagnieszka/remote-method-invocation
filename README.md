@@ -115,11 +115,9 @@ java -cp out server.MyRMI
 ```
 Expected output:
 
-==================================  
 RMI SERVER STARTED SUCCESSFULLY  
 Registry port : 5001  
 Bind name     : Hello  
-==================================
 
 ---
 
