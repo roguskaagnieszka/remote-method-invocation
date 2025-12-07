@@ -53,9 +53,7 @@ The application consists of **three logical modules**:
 
 The application uses a **menu-based CLI user interface**:
 
-================================  
 USER DATABASE MENU  
-================================  
 1 - Add user  
 2 - Remove user  
 3 - Get user by ID  
